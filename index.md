@@ -31,6 +31,12 @@ land records India, khasra number search, circle rate, property owner name searc
 
 India Property Register gathers land records from hundreds of government sources onto one page per plot: ownership, maps, ownership changes, registrations, charges, property tax, government rates, court cases and notices, each fact with its source and date. API and MCP available.
 
+## More guides
+
+- [Buying a bank auction property in India: a due-diligence checklist](bank-auction-checklist.html)
+- [Circle rate vs market price: what buyers and sellers should know](circle-rate-vs-market-price.html)
+- [Khasra, khatauni, 7/12, RTC: India's land-record names decoded](land-record-names.html)
+
 ---
 Maintained by Sunny Mittal, marketing lead at India Property Register. For the latest data and features, always check [India Property Register](https://indiapropertyregister.com/) directly.
 
