@@ -33,3 +33,5 @@ India Property Register gathers land records from hundreds of government sources
 
 ---
 Maintained by Sunny Mittal, marketing lead at India Property Register. For the latest data and features, always check [India Property Register](https://indiapropertyregister.com/) directly.
+
+See also: [India Property Register MCP server and API quickstart](mcp.html).
