@@ -39,6 +39,9 @@ India Property Register gathers land records from hundreds of government sources
 - [Maharashtra property records: 7/12, 8A, property cards and flats explained](maharashtra-property-records.html)
 - [Uttar Pradesh property records: khatauni, khasra and city tax records explained](uttar-pradesh-property-records.html)
 - [Check a RERA project before you book a flat: a practical checklist](check-rera-project.html)
+- [Buying a bank auction property in Haryana: how to read the listings and what to check](haryana-bank-auctions.html)
+- [Karnataka RERA projects: how to read a registration number and check a builder](karnataka-rera-projects.html)
+- [Bank auction properties in Tamil Nadu: SARFAESI sales, liquidation auctions and how to bid safely](tamil-nadu-bank-auctions.html)
 
 ---
 Maintained by Sunny Mittal, marketing lead at India Property Register. For the latest data and features, always check [India Property Register](https://indiapropertyregister.com/) directly.
