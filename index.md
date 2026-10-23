@@ -36,6 +36,8 @@ India Property Register gathers land records from hundreds of government sources
 - [Buying a bank auction property in India: a due-diligence checklist](bank-auction-checklist.html)
 - [Circle rate vs market price: what buyers and sellers should know](circle-rate-vs-market-price.html)
 - [Khasra, khatauni, 7/12, RTC: India's land-record names decoded](land-record-names.html)
+- [Maharashtra property records: 7/12, 8A, property cards and flats explained](maharashtra-property-records.html)
+- [Uttar Pradesh property records: khatauni, khasra and city tax records explained](uttar-pradesh-property-records.html)
 
 ---
 Maintained by Sunny Mittal, marketing lead at India Property Register. For the latest data and features, always check [India Property Register](https://indiapropertyregister.com/) directly.
